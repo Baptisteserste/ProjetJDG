@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "ProjetJDG",
   "resources": {
-    "hash": "sha256-v50xEIzqgGsiU8cBhHYeBKhtCL3b+EBSxcWBgILCWJc=",
+    "hash": "sha256-c0ZcSOKaaYasbvKnYQz5OD5heu59atj1LPB1b9UeBnI=",
     "jsModuleNative": {
       "dotnet.native.8.0.8.xj9k5zvk8z.js": "sha256-juC5sA7gHTLXFEhAKgdM2/RavswpwCtDfjYGsAz2FXg="
     },
@@ -208,10 +208,10 @@
       "mscorlib.wasm": "sha256-Gz8PyW2/fwihe5ul81OwmRUrU71r+KtbyRw6xlOGD+Q=",
       "netstandard.wasm": "sha256-jMTqIQzoDS810lyhZpMO5eEC36EzntXqSVn+2qwkOMQ=",
       "System.Private.CoreLib.wasm": "sha256-NFj5WE5VLP2LptZIRJCUIc1AMk06FmxpsSILfPISwAw=",
-      "ProjetJDG.wasm": "sha256-dtcCogvd/HBLCYHxXJqMqF/fWUXRu6BwhFw7KsXntPo="
+      "ProjetJDG.wasm": "sha256-Pa8fwbaZ+chb1FQMDOVQqkblDQLyptvoS9tNLLIB1H0="
     },
     "pdb": {
-      "ProjetJDG.pdb": "sha256-GwrhbHNKtW5AFTDTr8FW21ChPbkCGcAifjx8rNSz1hU="
+      "ProjetJDG.pdb": "sha256-Vs5sTf3zZlglHxrqHKnvJTTB7HHhoIzYS3kTFK4HSqk="
     }
   },
   "cacheBootResources": true,
