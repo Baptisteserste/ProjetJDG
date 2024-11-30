@@ -1029,3 +1029,4 @@ C:\Users\bapti\.dotnet\ProjetJDG\obj\Debug\net8.0\ProjetJDG.dll
 C:\Users\bapti\.dotnet\ProjetJDG\obj\Debug\net8.0\refint\ProjetJDG.dll
 C:\Users\bapti\.dotnet\ProjetJDG\obj\Debug\net8.0\ProjetJDG.pdb
 C:\Users\bapti\.dotnet\ProjetJDG\obj\Debug\net8.0\ref\ProjetJDG.dll
+C:\Users\bapti\.dotnet\ProjetJDG\obj\Debug\net8.0\ProjetJDG.sourcelink.json
