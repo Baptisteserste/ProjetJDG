@@ -1,3 +1,4 @@
+using System.Collections.Specialized;
 public class Map
 {
     public Tile[,] Tiles { get; set; }
