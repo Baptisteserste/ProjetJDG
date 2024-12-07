@@ -1,43 +1,43 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\bapti\\.dotnet\\ProjetJDG\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "Id": "C:\\Users\\bapti\\Desktop\\ProjetJDG\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "C:\\Users\\bapti\\.dotnet\\ProjetJDG\\obj\\Debug\\net8.0\\compressed\\mz6hd053as.gz",
+      "Id": "C:\\Users\\bapti\\Desktop\\ProjetJDG\\obj\\Debug\\net8.0\\compressed\\mz6hd053as.gz",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
-      "Id": "C:\\Users\\bapti\\.dotnet\\ProjetJDG\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ProjetJDG.styles.css",
+      "Id": "C:\\Users\\bapti\\Desktop\\ProjetJDG\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ProjetJDG.styles.css",
       "PackagePath": "staticwebassets\\ProjetJDG.styles.css"
     },
     {
-      "Id": "C:\\Users\\bapti\\.dotnet\\ProjetJDG\\wwwroot\\css\\app.css",
+      "Id": "C:\\Users\\bapti\\Desktop\\ProjetJDG\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\Users\\bapti\\.dotnet\\ProjetJDG\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\bapti\\Desktop\\ProjetJDG\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\bapti\\.dotnet\\ProjetJDG\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\bapti\\Desktop\\ProjetJDG\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\bapti\\.dotnet\\ProjetJDG\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\bapti\\Desktop\\ProjetJDG\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\bapti\\.dotnet\\ProjetJDG\\wwwroot\\icon-192.png",
+      "Id": "C:\\Users\\bapti\\Desktop\\ProjetJDG\\wwwroot\\icon-192.png",
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
-      "Id": "C:\\Users\\bapti\\.dotnet\\ProjetJDG\\wwwroot\\index.html",
+      "Id": "C:\\Users\\bapti\\Desktop\\ProjetJDG\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\bapti\\.dotnet\\ProjetJDG\\wwwroot\\sample-data\\weather.json",
+      "Id": "C:\\Users\\bapti\\Desktop\\ProjetJDG\\wwwroot\\sample-data\\weather.json",
       "PackagePath": "staticwebassets\\sample-data\\weather.json"
     },
     {

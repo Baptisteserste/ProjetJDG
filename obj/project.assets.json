@@ -2064,11 +2064,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bapti\\.dotnet\\ProjetJDG\\ProjetJDG.csproj",
+      "projectUniqueName": "C:\\Users\\bapti\\Desktop\\ProjetJDG\\ProjetJDG.csproj",
       "projectName": "ProjetJDG",
-      "projectPath": "C:\\Users\\bapti\\.dotnet\\ProjetJDG\\ProjetJDG.csproj",
+      "projectPath": "C:\\Users\\bapti\\Desktop\\ProjetJDG\\ProjetJDG.csproj",
       "packagesPath": "C:\\Users\\bapti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bapti\\.dotnet\\ProjetJDG\\obj\\",
+      "outputPath": "C:\\Users\\bapti\\Desktop\\ProjetJDG\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bapti\\AppData\\Roaming\\NuGet\\NuGet.Config"
